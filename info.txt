@@ -1,3 +1,18 @@
+12/04/2026
+----------
+- let's try with kompose to deploy in a cluster
+	kompose convert -c
+	minikube start
+	helm install grafana docker-compose
+	
+	
+	
+
+- https://www.youtube.com/watch?v=STVMGrYIlfg
+- https://www.youtube.com/watch?v=x_xkKiRZbKA
+- https://www.youtube.com/watch?v=h2daQ8mQ2pM
+
+
 29/03/2026
 ----------
 - best thing is to use grafana as a visualisation and alert tool
